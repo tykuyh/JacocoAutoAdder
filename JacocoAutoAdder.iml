@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../JacocoAutoAdder/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../JacocoAutoAdder/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../JacocoAutoAdder">
+      <sourceFolder url="file://$MODULE_DIR$/../JacocoAutoAdder/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../JacocoAutoAdder/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../JacocoAutoAdder/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../JacocoAutoAdder/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
